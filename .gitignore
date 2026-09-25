@@ -8,6 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+.DS_Store
 build/
 develop-eggs/
 dist/
@@ -160,4 +161,4 @@ cython_debug/
 #.idea/
 langchain-docs/
 .DS_Store
-.chroma_db/
+.chroma_db/.venv
